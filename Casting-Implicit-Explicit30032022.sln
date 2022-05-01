@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting-Implicit-Explicit30032022", "Casting-Implicit-Explicit30032022\Casting-Implicit-Explicit30032022.csproj", "{AF1B780C-D67A-487C-A857-A19A93700784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF1B780C-D67A-487C-A857-A19A93700784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF1B780C-D67A-487C-A857-A19A93700784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF1B780C-D67A-487C-A857-A19A93700784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF1B780C-D67A-487C-A857-A19A93700784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5304A071-12F6-4C89-B2E9-05AE83130A4E}
+	EndGlobalSection
+EndGlobal
